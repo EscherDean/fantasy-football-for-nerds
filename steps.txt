@@ -1,0 +1,13 @@
+Install according to: https://nextjs.org/docs/getting-started/installation#automatic-installation
+
+Delete basically everything.
+
+Empty model for team (name attribute).
+
+Set up basic web app deployment: https://devcenter.heroku.com/articles/github-integration
+
+https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up
+
+Heroku custom domain: https://devcenter.heroku.com/articles/custom-domains
+
+Yahoo fantasy API: https://developer.yahoo.com/fantasysports/guide/
